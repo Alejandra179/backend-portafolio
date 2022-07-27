@@ -17,7 +17,7 @@ import com.personal.miportafolio.model.Educacion;
 import com.personal.miportafolio.service.IEducacionService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://my-first-portafolio.web.app")
 
 public class EducacionController {
 	@Autowired

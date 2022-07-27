@@ -18,7 +18,7 @@ import com.personal.miportafolio.model.Persona;
 import com.personal.miportafolio.service.IPersonaService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://my-first-portafolio.web.app")
 public class PersonaController {
 	
 	@Autowired

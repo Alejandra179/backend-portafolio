@@ -17,7 +17,7 @@ import com.personal.miportafolio.model.Hard;
 import com.personal.miportafolio.service.IHardService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://my-first-portafolio.web.app")
 public class HardController {
 	@Autowired
 	private IHardService interHard;

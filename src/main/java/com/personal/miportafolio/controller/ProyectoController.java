@@ -18,7 +18,7 @@ import com.personal.miportafolio.model.Proyecto;
 import com.personal.miportafolio.service.IProyectoService;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://my-first-portafolio.web.app")
 public class ProyectoController {
 	@Autowired
 	private IProyectoService interProyecto;

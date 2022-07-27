@@ -19,7 +19,7 @@ import com.personal.miportafolio.service.IExperienciaLaboralService;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = "https://my-first-portafolio.web.app")
 public class ExperienciaLaboralController {
 	@Autowired
 	private IExperienciaLaboralService interExperienciaLaboral;
